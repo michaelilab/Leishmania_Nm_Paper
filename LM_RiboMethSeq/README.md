@@ -1,0 +1,22 @@
+LM_RiboMethSeq/
+├── scripts/
+│   ├── preprocess_ribomethseq.sh
+│   ├── calculate_ribometh_scores.R
+│   ├── CountInitiating.pl
+│   └── Count3p.pl
+├── data/
+│   ├── RawData/
+│   │   ├── sample1_R1.fastq.gz
+│   │   ├── sample1_R2.fastq.gz
+│   │   ├── sample2_R1.fastq.gz
+│   │   └── sample2_R2.fastq.gz
+│   └── DB/
+│       ├── TB_rRNA.sma
+│       ├── TB_rRNA.smi
+│       ├── rRNA.genome
+│       ├── LM_rRNA_whole_fasta.fa
+│       └── LM_known_rRNA_Nms.txt
+├── results/
+│   ├── ribometh_preprocessing/
+│   └── ribometh_scores/
+└── README.md
