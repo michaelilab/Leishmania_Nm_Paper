@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 ##########################################################################
-# calculate_ribometh_scores.R
+# 03_calculate_ribometh_scores.R
 #
 # This script calculates RiboMethSeq scores A, B, and C from preprocessed
 # 5' and 3' count files.
