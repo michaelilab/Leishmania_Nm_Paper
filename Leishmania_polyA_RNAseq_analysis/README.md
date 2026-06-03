@@ -1,6 +1,6 @@
 # Poly(A) RNA-seq analysis in *Leishmania major*
 
-This repository contains scripts used for poly(A) RNA-seq analysis in *Leishmania major* Friedlin v9.
+This repository contains scripts used for poly(A) RNA-seq analysis in *Leishmania major* Friedlin v64.
 
 The workflow includes:
 
