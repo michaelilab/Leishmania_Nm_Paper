@@ -4,7 +4,7 @@ This repository contains scripts used for poly(A) RNA-seq analysis in *Leishmani
 
 The workflow includes:
 
-1. Alignment of poly(A) RNA-seq reads to the *L. major* Friedlin v9 genome using SMALT.
+1. Alignment of poly(A) RNA-seq reads to the *L. major* Friedlin v64 genome using SMALT.
 2. Gene-level read counting using HTSeq-count.
 3. Differential expression analysis using DESeq2.
 4. UTR length analysis based on dominant 5′ spliced-leader and 3′ poly(A) sites.
