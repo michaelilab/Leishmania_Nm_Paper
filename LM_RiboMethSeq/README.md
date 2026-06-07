@@ -2,7 +2,8 @@
 ```text
 RiboMethSeq/
 ├── scripts/
-│   ├── 02_preprocess_ribomethseq.sh
+│   ├── 01_build_smalt_index.sh
+|   ├── 
 │   ├── 03_calculate_ribometh_scores.R
 │   ├── CountInitiating.pl
 │   └── Count3p.pl
