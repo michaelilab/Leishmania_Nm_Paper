@@ -3,7 +3,7 @@
 RiboMethSeq/
 ├── scripts/
 │   ├── 01_build_smalt_index.sh
-|   ├── 
+|   ├── 02_align_reads_smalt.sh
 │   ├── 03_calculate_ribometh_scores.R
 │   ├── CountInitiating.pl
 │   └── Count3p.pl
