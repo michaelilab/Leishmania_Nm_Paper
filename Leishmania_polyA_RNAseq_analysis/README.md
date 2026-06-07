@@ -28,5 +28,4 @@ The analysis was performed using:
 scripts/      Analysis scripts
 data/         Input metadata, reference files, and count matrices
 results/      Output tables and figures
-environment/  Software versions and reproducibility files
-docs/         Additional method descriptions
+
